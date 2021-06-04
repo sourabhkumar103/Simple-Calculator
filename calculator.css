@@ -1,0 +1,43 @@
+#main{
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 25px;
+    background: silver;
+    box-shadow: 5px 5px 10px rgb(32, 30, 30);
+
+}
+
+.button{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    margin: 3px;
+    border-style: outset;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px  rgb(32, 30, 30);
+}
+.text{
+    width: 178px;
+    height: 35px;
+    margin-left: 3px;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 20px;
+    border-style: solid;
+}
+
+.mathbutton{
+    background: black;
+    color: white;
+}
+
+.clearbutton{
+    background: red;
+    color: white;
+}
+.backspace{
+    background: darkgrey;
+    color: white;
+}
